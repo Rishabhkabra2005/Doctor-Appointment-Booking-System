@@ -34,13 +34,75 @@ State Management: React Context API, useState, useEffect
 
 **⚙️ Installation & Setup**
 
-1. Clone the repository: git clone https://github.com/md0011/Doctor-Appointment-System
-2. Install dependencies: npm install or yarn install
-3. Create a .env file in the root directory and set environment variables for database connection, authentication, and other configurations.
-4. Start the development server: npm start or yarn start
+**Backend Setup**
 
-🚀 Usage
-1.Register as a patient or doctor or log in as admin.
-2.Patients can search doctors, book appointments, and manage their profiles.
-3.Doctors can manage schedules and update profiles.
-4.Admins can oversee doctors, appointments, and system statistics.
+1. Install dependencies:
+cd backend
+npm install
+
+2. Create a .env file in the backend folder and add:
+MONGODB_URI=your_mongodb_connection_string
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
+JWT_SECRET=your_jwt_secret
+RAZORPAY_KEY_ID=your_razorpay_key_id
+RAZORPAY_KEY_SECRET=your_razorpay_key_secret
+ADMIN_EMAIL=admin@example.com
+ADMIN_PASSWORD=your_admin_password
+
+3. Start backend server:
+npm run dev
+
+**Frontend Setup**
+
+1. Install dependencies:
+cd frontend
+npm install
+
+2. Create a .env file in the frontend folder:
+VITE_BACKEND_URL=http://localhost:4000
+
+3.Start frontend:
+npm run dev
+
+**Admin Panel Setup**
+1. Install dependencies:
+cd admin
+npm install
+
+3. Create a .env file in the admin folder (same as backend).
+
+4. Start admin panel:
+npm run dev
+
+**🚀 Usage**
+
+1. Register as a patient or doctor or log in as admin.
+2. Patients can search doctors, book appointments, and manage their profiles.
+3. Doctors can manage schedules and update profiles.
+4. Admins can oversee doctors, appointments, and system statistics.
+   
+**🔍 Core Functionalities**
+**Patients:**
+Register/Login
+Search doctors by specialty
+Book/cancel/reschedule appointments
+Online payment
+Manage profile
+**Doctors:**
+Manage profile
+View appointments
+Update appointment status
+Track earnings
+**Admins:**
+Add/manage doctors
+Manage all appointments
+Toggle doctor availability
+View dashboard statistics
+
+**🎨 Customization & Deployment**
+Customize UI using Tailwind CSS and React components.
+Payment gateways can be switched by updating integration files.
+Deploy backend and frontend separately on platforms like Heroku, Vercel, or Netlify.
+Secure all environment variables in production.
