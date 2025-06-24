@@ -3,34 +3,34 @@ A full-stack web application built using the MERN Stack (MongoDB, Express.js, Re
 The system supports multi-role authentication and separate dashboards for patients, doctors, and admins.
 
 **🔑 Key Features**
-**Multi-Role Authentication:**
+1. **Multi-Role Authentication:**
 Separate login and dashboards for patients, doctors, and admins.
-**Doctor Management:**
+2. **Doctor Management:**
 Admins can add doctors with profile images, specialties, experience, and fees.
 Doctors can manage their profiles and availability.
-**Patient Features:**
+3. **Patient Features:**
 Patients can search doctors by specialty, view top doctors, book appointments, and manage their profiles.
-**Appointment Booking:**
+4. **Appointment Booking:**
 Real-time slot availability, online booking, rescheduling, and cancellation.
-**Payment Integration:**
+5. **Payment Integration:**
 Secure online payments via Razorpay.
-**Responsive UI:**
+6. **Responsive UI:**
 Built with React.js and Tailwind CSS for a modern, mobile-friendly interface.
-**Profile Management:**
+7. **Profile Management:**
 Both patients and doctors can update profiles and upload images using Cloudinary.
-**Admin Panel:**
+8. **Admin Panel:**
 Admins can manage doctors, appointments, and track dashboard statistics.
-**Notifications:**
+9. **Notifications:**
 Real-time user feedback via toast notifications.
-**State Management:**
+10. **State Management:**
 Shared state using React Context API.
 
 **🛠️ Technologies Used**
-Frontend: React.js, Tailwind CSS, React Router DOM, React Toastify, Axios
-Backend: Node.js, Express.js, Mongoose, bcrypt, JWT, multer, Cloudinary, cors, dotenv, validator, nodemon
-Database: MongoDB (MongoDB Atlas)
-Payment Gateway: Razorpay
-State Management: React Context API, useState, useEffect
+1. Frontend: React.js, Tailwind CSS, React Router DOM, React Toastify, Axios
+2. Backend: Node.js, Express.js, Mongoose, bcrypt, JWT, multer, Cloudinary, cors, dotenv, validator, nodemon
+3. Database: MongoDB (MongoDB Atlas)
+4. Payment Gateway: Razorpay
+5. State Management: React Context API, useState, useEffect
 
 **⚙️ Installation & Setup**
 
@@ -59,10 +59,8 @@ npm run dev
 1. Install dependencies:
 cd frontend
 npm install
-
 2. Create a .env file in the frontend folder:
 VITE_BACKEND_URL=http://localhost:4000
-
 3.Start frontend:
 npm run dev
 
@@ -70,10 +68,8 @@ npm run dev
 1. Install dependencies:
 cd admin
 npm install
-
-3. Create a .env file in the admin folder (same as backend).
-
-4. Start admin panel:
+2. Create a .env file in the admin folder (same as backend).
+3. Start admin panel:
 npm run dev
 
 **🚀 Usage**
@@ -84,25 +80,28 @@ npm run dev
 4. Admins can oversee doctors, appointments, and system statistics.
    
 **🔍 Core Functionalities**
+
 **Patients:**
-Register/Login
-Search doctors by specialty
-Book/cancel/reschedule appointments
-Online payment
-Manage profile
+1. Register/Login
+2. Search doctors by specialty
+3. Book/cancel/reschedule appointments
+4. Online payment
+5. Manage profile
+
 **Doctors:**
-Manage profile
-View appointments
-Update appointment status
-Track earnings
+1. Manage profile
+2. View appointments
+3. Update appointment status
+4. Track earnings
+   
 **Admins:**
-Add/manage doctors
-Manage all appointments
-Toggle doctor availability
-View dashboard statistics
+1. Add/manage doctors
+2. Manage all appointments
+3. Toggle doctor availability
+4. View dashboard statistics
 
 **🎨 Customization & Deployment**
-Customize UI using Tailwind CSS and React components.
-Payment gateways can be switched by updating integration files.
-Deploy backend and frontend separately on platforms like Heroku, Vercel, or Netlify.
-Secure all environment variables in production.
+1. Customize UI using Tailwind CSS and React components.
+2. Payment gateways can be switched by updating integration files.
+3. Deploy backend and frontend separately on platforms like Heroku, Vercel, or Netlify.
+4. Secure all environment variables in production.
