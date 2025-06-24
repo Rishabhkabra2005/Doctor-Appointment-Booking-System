@@ -41,6 +41,7 @@ cd backend
 npm install
 
 2. Create a .env file in the backend folder and add:
+
 MONGODB_URI=your_mongodb_connection_string
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
@@ -61,7 +62,7 @@ cd frontend
 npm install
 2. Create a .env file in the frontend folder:
 VITE_BACKEND_URL=http://localhost:4000
-3.Start frontend:
+3. Start frontend:
 npm run dev
 
 **Admin Panel Setup**
