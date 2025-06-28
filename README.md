@@ -1,3 +1,4 @@
+
 **Doctor Appointment Booking System**
 A full-stack web application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) for seamless doctor appointment booking and management.
 The system supports multi-role authentication and separate dashboards for patients, doctors, and admins.
@@ -106,3 +107,62 @@ npm run dev
 2. Payment gateways can be switched by updating integration files.
 3. Deploy backend and frontend separately on platforms like Heroku, Vercel, or Netlify.
 4. Secure all environment variables in production.
+
+
+<h2>Project Screenshots</h2>
+
+<p align="center">
+  <b>Prescripto - Homepage</b><br>
+  <img src="https://github.com/user-attachments/assets/3f782eb2-b69a-41bc-a441-7f60490b0fe3" width="300" style="margin: 10px;" />
+  
+  <b>Prescripto - Sign Up Page</b><br>
+  <img src="https://github.com/user-attachments/assets/5d4928af-c344-4b8a-8349-4ca1eececabf" width="300" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <b>Prescripto - Profile Page</b><br>
+  <img src="https://github.com/user-attachments/assets/d370c27e-6a99-4b31-84fe-863eb1a7bed3" width="300" style="margin: 10px;" />
+  
+  <b>Prescripto - My Appointments Page</b><br>
+  <img src="https://github.com/user-attachments/assets/89451524-c8c5-4c0b-90b8-04e93c0d6687" width="300" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <b>Prescripto - Login Page</b><br>
+  <img src="https://github.com/user-attachments/assets/d4ff12c8-2fa1-4f76-b250-2fbd62f53fde" width="300" style="margin: 10px;" />
+  
+  <b>Prescripto - Appointment Page</b><br>
+  <img src="https://github.com/user-attachments/assets/d19cc5f3-7ed6-4360-8184-71b80276882b" width="300" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <b>Prescripto - Doctors Page</b><br>
+  <img src="https://github.com/user-attachments/assets/d17d5777-2bdb-4731-b976-7af0a8296094" width="300" style="margin: 10px;" />
+  
+  <b>Prescripto - About Page</b><br>
+  <img src="https://github.com/user-attachments/assets/96705958-0bd0-4eb5-b56f-d7359ac28b3d" width="300" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <b>Prescripto - Contact Page</b><br>
+  <img src="https://github.com/user-attachments/assets/4bcf18bc-c452-4f84-85b7-82c5756712d2" width="300" style="margin: 10px;" />
+  
+  <b>Admin Panel</b><br>
+  <img src="https://github.com/user-attachments/assets/eb11d2f1-68ef-4b0c-a798-5c677c850313" width="300" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <b>Admin Panel</b><br>
+  <img src="https://github.com/user-attachments/assets/7f1f666b-6ecc-4f85-8db7-a23325f2b923" width="300" style="margin: 10px;" />
+  
+  <b>Doctor Panel</b><br>
+  <img src="https://github.com/user-attachments/assets/db6babf7-0aa7-495c-8e48-26f971bf0003" width="300" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <b>Admin Panel</b><br>
+  <img src="https://github.com/user-attachments/assets/3ac454e7-4758-4acb-8c6c-bd89b4daebb0" width="300" style="margin: 10px;" />
+  
+  <b>Admin Panel</b><br>
+  <img src="https://github.com/user-attachments/assets/8fc2d6d1-fe5b-4b51-8f1e-f0bec574bc12" width="300" style="margin: 10px;" />
+</p>
