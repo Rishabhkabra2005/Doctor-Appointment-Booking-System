@@ -112,58 +112,38 @@ npm run dev
 
 <h2>Project Screenshots</h2>
 
-<p align="center">
-  <b>Heal Time - Homepage</b><br>
-  <img src="https://github.com/user-attachments/assets/3f782eb2-b69a-41bc-a441-7f60490b0fe3" width="300" style="margin: 10px;" />
-  
-  <b>Heal Time - Sign Up Page</b><br>
-  <img src="https://github.com/user-attachments/assets/5d4928af-c344-4b8a-8349-4ca1eececabf" width="300" style="margin: 10px;" />
-</p>
+## 🏠 Home Page Screenshots
 
-<p align="center">
-  <b>Heal Time - Profile Page</b><br>
-  <img src="https://github.com/user-attachments/assets/d370c27e-6a99-4b31-84fe-863eb1a7bed3" width="300" style="margin: 10px;" />
-  
-  <b>Heal Time - My Appointments Page</b><br>
-  <img src="https://github.com/user-attachments/assets/89451524-c8c5-4c0b-90b8-04e93c0d6687" width="300" style="margin: 10px;" />
-</p>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|--------------|--------------|--------------|
+| ![Screenshot 1](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%202025-06-30%20142720.png) | ![Screenshot 2](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(139).png) | ![Screenshot 3](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(140).png) |
+## 📸 Additional Pages
 
-<p align="center">
-  <b>Heal Time - Login Page</b><br>
-  <img src="https://github.com/user-attachments/assets/d4ff12c8-2fa1-4f76-b250-2fbd62f53fde" width="300" style="margin: 10px;" />
-  
-  <b>Heal Time - Appointment Page</b><br>
-  <img src="https://github.com/user-attachments/assets/d19cc5f3-7ed6-4360-8184-71b80276882b" width="300" style="margin: 10px;" />
-</p>
+| All Doctors | About | Contact Us |
+|-------------|-------|------------|
+| **All Doctors**<br>![All Doctors](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(141).png) | **About**<br>![About](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(142).png) | **Contact Us**<br>![Contact Us](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(143).png) |
+## 📋 User Pages
 
-<p align="center">
-  <b>Heal Time - Doctors Page</b><br>
-  <img src="https://github.com/user-attachments/assets/d17d5777-2bdb-4731-b976-7af0a8296094" width="300" style="margin: 10px;" />
-  
-  <b>Heal Time - About Page</b><br>
-  <img src="https://github.com/user-attachments/assets/96705958-0bd0-4eb5-b56f-d7359ac28b3d" width="300" style="margin: 10px;" />
-</p>
+| Create Account | My Appointments |
+|----------------|-----------------|
+| **Create Account**<br>![Create Account](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(151).png) | **My Appointments**<br>![My Appointments](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(150).png) |
+## 🛠️ Admin Login
 
-<p align="center">
-  <b>Heal Time - Contact Page</b><br>
-  <img src="https://github.com/user-attachments/assets/4bcf18bc-c452-4f84-85b7-82c5756712d2" width="300" style="margin: 10px;" />
-  
-  <b>Admin Panel</b><br>
-  <img src="https://github.com/user-attachments/assets/eb11d2f1-68ef-4b0c-a798-5c677c850313" width="300" style="margin: 10px;" />
-</p>
+| Admin Login |
+|-------------|
+| **Admin Login Page**<br>![Admin Login](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(149).png) |
+## 🛠️ Admin Panel
 
-<p align="center">
-  <b>Admin Panel</b><br>
-  <img src="https://github.com/user-attachments/assets/7f1f666b-6ecc-4f85-8db7-a23325f2b923" width="300" style="margin: 10px;" />
-  
-  <b>Doctor Panel</b><br>
-  <img src="https://github.com/user-attachments/assets/db6babf7-0aa7-495c-8e48-26f971bf0003" width="300" style="margin: 10px;" />
-</p>
+| Admin Dashboard | Appointments |
+|-----------------|--------------|
+| **Admin Dashboard**<br>![Admin Dashboard](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(145).png) | **Appointments**<br>![Appointments](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(146).png) |
 
-<p align="center">
-  <b>Admin Panel</b><br>
-  <img src="https://github.com/user-attachments/assets/3ac454e7-4758-4acb-8c6c-bd89b4daebb0" width="300" style="margin: 10px;" />
-  
-  <b>Admin Panel</b><br>
-  <img src="https://github.com/user-attachments/assets/8fc2d6d1-fe5b-4b51-8f1e-f0bec574bc12" width="300" style="margin: 10px;" />
-</p>
+| Add Doctor | Doctor List |
+|------------|-------------|
+| **Add Doctor**<br>![Add Doctor](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(147).png) | **Doctor List**<br>![Doctor List](https://github.com/Rishabhkabra2005/screenshot/raw/ab5e5cb5c4752de6c8d163f6cb67b8202adcad14/Screenshot%20(148).png) |
+
+## 🎥 Working Project Video
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Rishabhkabra2005/screenshot/raw/88244cc92e5e7bdbca8716d0275606397ecad23a/screen-capture.mp4)
+
+**🔗 [Click here to watch the video](https://github.com/Rishabhkabra2005/screenshot/raw/88244cc92e5e7bdbca8716d0275606397ecad23a/screen-capture.mp4)**
