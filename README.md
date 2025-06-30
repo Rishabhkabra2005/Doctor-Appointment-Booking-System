@@ -144,6 +144,4 @@ npm run dev
 
 ## 🎥 Working Project Video
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Rishabhkabra2005/screenshot/raw/88244cc92e5e7bdbca8716d0275606397ecad23a/screen-capture.mp4)
-
-**🔗 [Click here to watch the video](https://github.com/Rishabhkabra2005/screenshot/raw/88244cc92e5e7bdbca8716d0275606397ecad23a/screen-capture.mp4)**
+**🔗 [Click here to watch the project video](https://github.com/Rishabhkabra2005/screenshot/raw/88244cc92e5e7bdbca8716d0275606397ecad23a/screen-capture.mp4)**
