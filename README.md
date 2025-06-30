@@ -41,8 +41,8 @@ Shared state using React Context API.
 cd backend
 npm install
 
-2. Create a .env file in the backend folder and add:
-
+### Step 2: Create a `.env` file in the `backend` folder and add the following:
+```env
 MONGODB_URI=your_mongodb_connection_string
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
@@ -52,6 +52,7 @@ RAZORPAY_KEY_ID=your_razorpay_key_id
 RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 ADMIN_EMAIL=admin@example.com
 ADMIN_PASSWORD=your_admin_password
+```
 
 3. Start backend server:
 npm run dev
@@ -112,39 +113,39 @@ npm run dev
 <h2>Project Screenshots</h2>
 
 <p align="center">
-  <b>Prescripto - Homepage</b><br>
+  <b>Heal Time - Homepage</b><br>
   <img src="https://github.com/user-attachments/assets/3f782eb2-b69a-41bc-a441-7f60490b0fe3" width="300" style="margin: 10px;" />
   
-  <b>Prescripto - Sign Up Page</b><br>
+  <b>Heal Time - Sign Up Page</b><br>
   <img src="https://github.com/user-attachments/assets/5d4928af-c344-4b8a-8349-4ca1eececabf" width="300" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <b>Prescripto - Profile Page</b><br>
+  <b>Heal Time - Profile Page</b><br>
   <img src="https://github.com/user-attachments/assets/d370c27e-6a99-4b31-84fe-863eb1a7bed3" width="300" style="margin: 10px;" />
   
-  <b>Prescripto - My Appointments Page</b><br>
+  <b>Heal Time - My Appointments Page</b><br>
   <img src="https://github.com/user-attachments/assets/89451524-c8c5-4c0b-90b8-04e93c0d6687" width="300" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <b>Prescripto - Login Page</b><br>
+  <b>Heal Time - Login Page</b><br>
   <img src="https://github.com/user-attachments/assets/d4ff12c8-2fa1-4f76-b250-2fbd62f53fde" width="300" style="margin: 10px;" />
   
-  <b>Prescripto - Appointment Page</b><br>
+  <b>Heal Time - Appointment Page</b><br>
   <img src="https://github.com/user-attachments/assets/d19cc5f3-7ed6-4360-8184-71b80276882b" width="300" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <b>Prescripto - Doctors Page</b><br>
+  <b>Heal Time - Doctors Page</b><br>
   <img src="https://github.com/user-attachments/assets/d17d5777-2bdb-4731-b976-7af0a8296094" width="300" style="margin: 10px;" />
   
-  <b>Prescripto - About Page</b><br>
+  <b>Heal Time - About Page</b><br>
   <img src="https://github.com/user-attachments/assets/96705958-0bd0-4eb5-b56f-d7359ac28b3d" width="300" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <b>Prescripto - Contact Page</b><br>
+  <b>Heal Time - Contact Page</b><br>
   <img src="https://github.com/user-attachments/assets/4bcf18bc-c452-4f84-85b7-82c5756712d2" width="300" style="margin: 10px;" />
   
   <b>Admin Panel</b><br>
