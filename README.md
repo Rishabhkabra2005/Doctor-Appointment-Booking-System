@@ -27,7 +27,7 @@ Real-time user feedback via toast notifications.
 Shared state using React Context API.
 
 **🛠️ Technologies Used**
-1. Frontend: React.js, Tailwind CSS, React Router DOM, React Toastify, Axios
+1. Frontend: React.js
 2. Backend: Node.js, Express.js, Mongoose, bcrypt, JWT, multer, Cloudinary, cors, dotenv, validator, nodemon
 3. Database: MongoDB (MongoDB Atlas)
 4. Payment Gateway: Razorpay
