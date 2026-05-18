@@ -109,6 +109,10 @@ npm run dev
 3. Deploy backend and frontend separately on platforms like Heroku, Vercel, or Netlify.
 4. Secure all environment variables in production.
 
+<Website Link>
+   
+Frontend-->   https://prescripto-full-stack-xi.vercel.app/
+Admin-->  https://prescripto-full-stack-4jot.vercel.app/
 
 <h2>Project Screenshots</h2>
 
