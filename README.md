@@ -106,7 +106,7 @@ npm run dev
 **🎨 Customization & Deployment**
 1. Customize UI using Tailwind CSS and React components.
 2. Payment gateways can be switched by updating integration files.
-3. Deploy backend and frontend separately on platforms like Heroku, Vercel, or Netlify.
+3. Deploy backend and frontend separately on platforms like render and vercel.
 4. Secure all environment variables in production.
 
 <h2>Website Link</h2>
